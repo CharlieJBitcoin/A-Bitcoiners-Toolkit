@@ -1,5 +1,5 @@
 # A Bitcoiners Toolkit
-A curated list of software and services essential for every bitcoiner.
+A curated list of software, services and guides essential for every bitcoiner.
 
 ## Contents
 - [Intro](#introduction)
@@ -22,46 +22,47 @@ This is aimed at those just starting out on their privacy journey, and those loo
 ### PC
 
 **Default** :warning:
-- Windows
+
+- Windows - Improved: 
 
 **Alternatives** :white_check_mark:
-- [PopOS](https://pop.system76.com/) (Linux)
-  - t
+
+- [PopOS](https://pop.system76.com/)
 - [Tails](https://tails.boum.org/)
-  - t
-- [Mint](https://linuxmint.com/) (Linux)
-  - t
-- [Ubuntu](https://ubuntu.com/) (Linux)
-  - t
+- [Qubes](https://www.qubes-os.org/intro/)
+- [Mint](https://linuxmint.com/)
+- [Ubuntu](https://ubuntu.com/)
 
 **Guides** :book:
-- Learn more:
-  - [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm)
-- Learn Linux as you go:
-  - 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h)
+
+Learn more about Linux:
+- [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm)
+
+Learn Linux as you go:
+- 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h) how to set up a full node using the Linux terminal from basics.
+- Ministry of Nodes [tutorials](https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c) setting up a full node and other softwaer on Ubuntu.
 
 ### Phone
 
 **Default** :warning:
-- Android
-  - Improved - Techlore [Video](https://www.youtube.com/watch?v=dMWEym0KPcA)
-- iOS
-  - Improved - Techlore [Video](https://www.youtube.com/watch?v=d2bJVKcIEg0)
+
+- Android - Improved: Techlore [Video](https://www.youtube.com/watch?v=dMWEym0KPcA)
+- iOS - Improved: Techlore [Video](https://www.youtube.com/watch?v=d2bJVKcIEg0)
 
 **Alternatives** :white_check_mark:
+
 - [CalyxOS](https://calyxos.org/) - de-googled android
-  - CalyxOS [documentation](https://calyxos.org/docs/)
   - Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
 - [GrapheneOS](https://grapheneos.org/)
-  - Graphene.org [FAQ](https://grapheneos.org/faq)
   - Lopp's [Blog](https://blog.lopp.net/grapheneos-phone-privacy-protection/)
 
 ## Email :envelope:
-- Providers
+### Providers
 
-- Aliasing
+##s Aliasing
 
-- Self hosting
+### Self hosting
 
 ## Other Curated Privacy Lists
+
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
