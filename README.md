@@ -14,6 +14,20 @@ This is aimed at those just starting out on their privacy journey, and those loo
 ### Operating Systems
 **PC**
 
+:warning: Default
+- Windows
+
+:white_check_mark: Alternatives
+- Linux
+  - Learn:
+    - [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm)
+  - Learn Linux as you go:
+    - 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h)
+  - Distros
+    - [PopOS](https://pop.system76.com/)
+    - [Mint](https://linuxmint.com/)
+    - [Ubuntu](https://ubuntu.com/)
+
 **Phone**
 
 :warning: Default
@@ -31,6 +45,8 @@ This is aimed at those just starting out on their privacy journey, and those loo
 - [GrapheneOS](https://grapheneos.org/)
   - Learn:
     - Graphene.org [FAQ](https://grapheneos.org/faq)
+    - Lopp's [Blog](https://blog.lopp.net/grapheneos-phone-privacy-protection/)
+  - Download: [GrapheneOS.org](https://grapheneos.org/install/)
 
 ### Email
 - Providers
