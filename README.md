@@ -3,7 +3,7 @@ A curated list of software and services essential for every bitcoiner.
 
 ## Introduction
 ### Why?
-When you start to use Bitcoin, the inventive model for your own personal privacy and security changes. Securing your personal data can seem like a "pointless" endeavour for some, but once who start self-custodyong Bitcoin, that attitude inevitably shifts to caring deeply about your own privacy and the security of your stack.
+When you start to use Bitcoin, the incentive model for your own personal privacy and security changes. Securing your personal data can seem like a "pointless" endeavour for some, but once who start self-custodying Bitcoin, that attitude inevitably shifts to caring deeply about your own privacy and the security of your stack.
 
 This list is aimed to provide an easy-to-access archive of software and services which any bitcoiner will find useful, aiming to replace many of the free (but detrimental to your privacy) services which are commonly used.
 
