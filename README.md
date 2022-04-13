@@ -27,20 +27,21 @@ This is aimed at those just starting out on their privacy journey, and those loo
 
 **Alternatives** :white_check_mark:
 
-- [PopOS](https://pop.system76.com/)
-- [Tails](https://tails.boum.org/)
-- [Qubes](https://www.qubes-os.org/intro/)
-- [Mint](https://linuxmint.com/)
-- [Ubuntu](https://ubuntu.com/)
+- [PopOS](https://pop.system76.com/) - Good daily driver, suitable for gaming, encrypts drives, familiar UI 
+- [Tails](https://tails.boum.org/) - Excellent privacy assurances, Tor by default, boot from USB (portable), runs on RAM.
+- [Qubes](https://www.qubes-os.org/intro/) - Security focus, compartmentalises your activity.
+- [Mint](https://linuxmint.com/) - Good daily driver, available in cut down [xcfe](1https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html) version (good for older devices).
+- [Ubuntu](https://ubuntu.com/) - Good daily driver, often people's first experience of Linux.
 
 **Guides** :book:
 
 Learn more about Linux:
-- [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm)
+- [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm) guide, the basic of Linux and how it works.
 
 Learn Linux as you go:
 - 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h) how to set up a full node using the Linux terminal from basics.
-- Ministry of Nodes [tutorials](https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c) setting up a full node and other softwaer on Ubuntu.
+- Ministry of Nodes [tutorials](https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c) setting up a full node and other software on Ubuntu.
+- Hackernoon [article](https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea) guide on setting up a node on Kubuntu from basics.
 
 ### Phone
 
@@ -51,15 +52,25 @@ Learn Linux as you go:
 
 **Alternatives** :white_check_mark:
 
-- [CalyxOS](https://calyxos.org/) - de-googled android
+- [CalyxOS](https://calyxos.org/) - de-googled android, good daily driver with good trade off balance. 
   - Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
-- [GrapheneOS](https://grapheneos.org/)
+- [GrapheneOS](https://grapheneos.org/) - security focused phone OS, wider device compatibility than CalyxOS.
   - Lopp's [Blog](https://blog.lopp.net/grapheneos-phone-privacy-protection/)
 
 ## Email :envelope:
 ### Providers
 
-##s Aliasing
+**Default** :warning:
+
+- Gmail
+- Outlook
+
+**Alternatives** :white_check_mark:
+
+- Tutanota
+- ProtonMail
+
+### Aliasing
 
 ### Self hosting
 
