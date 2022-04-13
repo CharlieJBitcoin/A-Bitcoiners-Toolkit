@@ -22,9 +22,9 @@ Default
 
 Alternatives
 - [CalyxOS](https://calyxos.org/) - de-googled android
-  - Learn - CalyxOS [documentation](https://calyxos.org/docs/)
+  - Learn - CalyxOS [documentation](https://calyxos.org/docs/), Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
   - Download - from [CalyxOS.org](https://calyxos.org/get/)
-  - Why for Bitcoiners?
+  - Why for Bitcoiners? - [bitcoiner.guide](https://bitcoiner.guide/calyxos/)
 
 ### Email
 - Providers
