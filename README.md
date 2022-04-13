@@ -16,15 +16,21 @@ This is aimed at those just starting out on their privacy journey, and those loo
 
 **Phone**
 
-:x: Default
-- Android (run by Google)
-- iOS (run by Apple)
+:warning: Default
+- Android
+  - Improved - Techlore [Video](https://www.youtube.com/watch?v=dMWEym0KPcA)
+- iOS
+  - Improved - Techlore [Video](https://www.youtube.com/watch?v=d2bJVKcIEg0)
 
 :white_check_mark: Alternatives
 - [CalyxOS](https://calyxos.org/) - de-googled android
-  - Learn - CalyxOS [documentation](https://calyxos.org/docs/), Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
-  - Download - from [CalyxOS.org](https://calyxos.org/get/)
-  - Why for Bitcoiners? - [bitcoiner.guide](https://bitcoiner.guide/calyxos/)
+  - Learn:
+    - CalyxOS [documentation](https://calyxos.org/docs/)
+    - Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
+  - Download: [CalyxOS.org](https://calyxos.org/get/)
+- [GrapheneOS](https://grapheneos.org/)
+  - Learn:
+    - Graphene.org [FAQ](https://grapheneos.org/faq)
 
 ### Email
 - Providers
