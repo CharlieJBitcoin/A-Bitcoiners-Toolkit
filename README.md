@@ -10,45 +10,48 @@ This list is aimed to provide an easy-to-access archive of software and services
 ### Who Is This For?
 This is aimed at those just starting out on their privacy journey, and those looking to expand their toolkit with new recommendations.
 
-## The Toolkit
-### Operating Systems
-**PC**
+# The Toolkit
+## Operating Systems :computer:
+### PC
 
-:warning: Default
+**Default** :warning:
 - Windows
 
-:white_check_mark: Alternatives
-- Linux
-  - Learn:
+**Alternatives** :white_check_mark:
+- Linux (General)
+  - Learn more:
     - [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm)
   - Learn Linux as you go:
     - 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h)
-  - Distros
-    - [PopOS](https://pop.system76.com/)
-    - [Mint](https://linuxmint.com/)
-    - [Ubuntu](https://ubuntu.com/)
+- [PopOS](https://pop.system76.com/) (Linux)
+  - Learn more:
+    - placeholder
+- [Mint](https://linuxmint.com/) (Linux)
+  - Learn more:
+- [Ubuntu](https://ubuntu.com/) (Linux)
+  - Learn more:
 
-**Phone**
+### Phone
 
-:warning: Default
+**Default** :warning:
 - Android
   - Improved - Techlore [Video](https://www.youtube.com/watch?v=dMWEym0KPcA)
 - iOS
   - Improved - Techlore [Video](https://www.youtube.com/watch?v=d2bJVKcIEg0)
 
-:white_check_mark: Alternatives
+**Alternatives** :white_check_mark:
 - [CalyxOS](https://calyxos.org/) - de-googled android
-  - Learn:
+  - Learn more:
     - CalyxOS [documentation](https://calyxos.org/docs/)
     - Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
   - Download: [CalyxOS.org](https://calyxos.org/get/)
 - [GrapheneOS](https://grapheneos.org/)
-  - Learn:
+  - Learn more:
     - Graphene.org [FAQ](https://grapheneos.org/faq)
     - Lopp's [Blog](https://blog.lopp.net/grapheneos-phone-privacy-protection/)
   - Download: [GrapheneOS.org](https://grapheneos.org/install/)
 
-### Email
+## Email :envelope:
 - Providers
 
 - Aliasing
