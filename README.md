@@ -16,11 +16,11 @@ This is aimed at those just starting out on their privacy journey, and those loo
 
 **Phone**
 
-Default
+:x: Default
 - Android (run by Google)
 - iOS (run by Apple)
 
-Alternatives
+:white_check_mark: Alternatives
 - [CalyxOS](https://calyxos.org/) - de-googled android
   - Learn - CalyxOS [documentation](https://calyxos.org/docs/), Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/)
   - Download - from [CalyxOS.org](https://calyxos.org/get/)
