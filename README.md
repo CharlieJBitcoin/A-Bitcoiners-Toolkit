@@ -7,6 +7,9 @@ A curated list of software, services and guides essential for every bitcoiner.
   - [Who is this for?](#who-is-this-for)
 - [The Toolkit](#the-toolkit)
   - [Operating Systems](#operating-systems)
+  - [Email](#email)
+  - [Bitcoin Dashboards & Explorers](#bitcoin-dashboards-and-explorers)
+  - [Other Privacy Lists](#other-curated-privacy-lists)
 
 ## Introduction
 ### Why?
@@ -29,7 +32,7 @@ This is aimed at those just starting out on their privacy journey, and those loo
 
 **Default**
 
-- Windows - Improved: 
+- Windows - Improved: [Win10 Ameliorated](https://ameliorated.info/), not verified so used with caution!
 
 **Alternatives**
 
@@ -86,6 +89,29 @@ Learn Linux as you go:
 ### Aliasing :bust_in_silhouette:
 
 ### Self hosting :house:
+
+---
+
+## Bitcoin Dashboards and Explorers
+## Dashboard
+
+- [Clark Moody's Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+- [Bitbo.io](https://bitbo.io)
+
+## Block Explorer
+
+**Default**
+
+- Blockchain.com
+
+**Alternatives**
+
+- [OXT.me](https://oxt.me)
+- [Mempool.space](https://mempool.space)
+
+**Self-Host**
+
+- [RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
 
 ---
 
