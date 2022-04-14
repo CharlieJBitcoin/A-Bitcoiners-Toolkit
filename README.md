@@ -48,6 +48,7 @@ Learn Linux as you go:
 - 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h) how to set up a full node using the Linux terminal from basics.
 - Ministry of Nodes [tutorials](https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c) setting up a full node and other software on Ubuntu.
 - Hackernoon [article](https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea) guide on setting up a node on Kubuntu from basics.
+- [RaspiBolt](https://raspibolt.org/), a guide to setting up a full core and lightning node.
 
 ### Phone :iphone:
 
