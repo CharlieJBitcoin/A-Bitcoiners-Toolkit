@@ -5,6 +5,7 @@ A curated list of software, services and guides essential for every bitcoiner.
 - [Intro](#introduction)
   - [Why?](#why)
   - [Who is this for?](#who-is-this-for)
+  - [Disclaimer](#disclaimer)
 - [The Toolkit](#the-toolkit)
   - [Operating Systems](#operating-systems)
   - [Email](#email)
@@ -21,6 +22,9 @@ There are already [lots](#other-curated-privacy-lists) of privacy focused lists 
 
 ### Who Is This For?
 This is aimed at those just starting out on their privacy journey, and those looking to expand their toolkit with new recommendations.
+
+### Disclaimer
+This is by no means comprehensive! V1 of this list is simply [myself](https://twitter.com/charliejbitcoin) and [@BitcoinTimO](https://twitter.com/bitcointimo) thinking of what we use day-to-day. Suggestions and improvements are more than welcome!
 
 ---
 
@@ -73,7 +77,7 @@ Learn Linux as you go:
 
 ---
 
-## Email
+## Email :letter:
 ### Providers :envelope:
 
 **Default**
@@ -88,17 +92,125 @@ Learn Linux as you go:
 
 ### Aliasing :bust_in_silhouette:
 
-### Self hosting :house:
+- SimpleLogin
+
+---
+
+## Phone Numbers
+
+- Silent.link (US only)
+- Buying PAYG sim cards
+- Quackr
+
+---
+
+### Home Networking & Storage
+
+**Default**
+
+- ISP provided router w/ stock settings
+
+**First Steps**
+
+- Enhance the privacy of ISP router by changing factory settings [1](https://www.cgparker.com/home-network-security-router-settings/)
+
+**Improved**
+
+- [pfSense](https://www.pfsense.org/) router
+- [PiHole](https://pi-hole.net/)
+
+**Guides**
+
+- NetworkChuck's [video](https://youtu.be/lUzSsX4T4WQ) on setting up pfSense
+- Citadel Dispatch [CD.0.3.6 episode](https://citadeldispatch.com/cd36/) with @jamesob and @\_k3tan
+
+---
+
+## Hosted VPN Providers
+
+**Hosted VPN**
+
+- [Mullvad](https://mullvad.net/en/)
+- [IVPN](https://www.ivpn.net/)
+
+**Sorta VPN**
+
+- [ZeroTier](https://www.zerotier.com/)
+
+**Guides**
+
+- [ZeroTier for your node](https://www.youtube.com/watch?v=oM0HvY_x_Hc&list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c&index=12) by @\_k3tan
+
+---
+
+## Password & 2FA
+
+### Password Managers
+
+- KeePass ([Windows](https://keepass.info/)); KeePassDX ([Android](https://www.keepassdx.com/))
+- [Bitwarden](https://www.keepassdx.com/)
+
+### 2FA
+
+- [Aegis](https://getaegis.app/)
+
+---
+
+## Messaging & Social
+
+### Social Media
+
+- [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) (Reddit)
+- [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter) (Twitter)
+- [Nextpipe](https://newpipe.net/) (YouTube)
+
+### Messaging
+
+**Default**
+
+- SMS
+- WhatsApp
+
+**Alternatives**
+
+- [Signal](https://www.signal.org/)
+- [Matrix](https://matrix.org/) ([Element](https://matrix.org/docs/projects/client/element) is a good client)
+- [Briar](https://briarproject.org/)
+
+**Guides**
+
+- Comparison between [WhatsApp, Telegram, Signal by Techlore](https://youtu.be/3Fvzjf2349c), and tips to get the [most out of Signal](https://duckduckgo.com/?q=techlore+signal&t=brave&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUSf56JdGrTI), also by Techlore.
+- 
+
+### Calls & Conferencing
+
+**Default**
+
+- Cellular calls
+- Google Meet / MS Teams / Skype
+
+**Alternatives**
+
+- [Jitsi](https://jitsi.org/), and go to [meet.jit.si](https://meet.jit.si/) to set a call up
+- Signal voice/video call
+
+---
+
+## Podcast Apps
+
+- AntennaPod
+- Fountani
+- Breez
 
 ---
 
 ## Bitcoin Dashboards and Explorers
-## Dashboard
+### Dashboard
 
 - [Clark Moody's Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 - [Bitbo.io](https://bitbo.io)
 
-## Block Explorer
+### Block Explorer
 
 **Default**
 
@@ -118,3 +230,28 @@ Learn Linux as you go:
 ## Other Curated Privacy Lists
 
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+
+---
+
+## Privacy Focused Bitcoiners
+
+### A-E
+- [@BitcoinQ_A](https://twitter.com/bitcoinq_a) ([bitcoiner.guide](https://bitcoiner.guide/))
+- [@BTCGandalf](https://twitter.com/BTCGandalf) ([This Is Bitcoin](https://www.youtube.com/thisisbitcoinyt))
+- [@Diverter_NoKYC](https://twitter.com/diverter_nokyc) ([diverter.hostyourown.tools])(https://diverter.hostyourown.tools/)
+- [@EconoAlchemist](https://twitter.com/econoalchemist) ([burn the bridge](https://www.econoalchemist.com/))
+
+### F-J
+
+### K-O
+- [@MarketsBylili](https://twitter.com/Marketsbylili)
+- [@ODELL](https://twitter.com/ODELL) ([Matt Odell](https://mattodell.keybase.pub/))
+- [@openoms](https://twitter.com/openoms)
+
+### P-T
+- [@Satrinity](https://twitter.com/satrinity402)
+- [@TDevD](https://twitter.com/SamouraiDev)
+
+### U-Z
+
+
