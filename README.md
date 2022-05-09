@@ -44,7 +44,7 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 
 **Default**
 
-- Windows - Improved: [Win10 Ameliorated](https://ameliorated.info/), not verified so used with caution!
+- Windows - Improved: [Win10 Ameliorated](https://ameliorated.info/), not verified so use with caution!
 
 **Alternatives**
 
@@ -95,20 +95,20 @@ Learn Linux as you go:
 
 **Alternatives**
 
-- Tutanota
-- ProtonMail
+- [Tutanota](https://mail.tutanota.com/)
+- [ProtonMail](https://protonmail.com/)
 
 ### Aliasing :bust_in_silhouette:
 
-- SimpleLogin
+- [SimpleLogin](https://simplelogin.io/)
 
 ---
 
 ## Phone Numbers
 
-- Silent.link (US only)
+- [Silent.link](https://silent.link/) (US only)
 - Buying PAYG sim cards
-- Quackr
+- [Quackr](https://quackr.io/)
 
 ---
 
@@ -134,7 +134,7 @@ Learn Linux as you go:
 - NetworkChuck's [video](https://youtu.be/lUzSsX4T4WQ) on setting up pfSense
 - Citadel Dispatch [CD.0.3.6 episode](https://citadeldispatch.com/cd36/) with @jamesob and @\_k3tan
 
-### Cloud and Storage
+### Cloud and storage
 
 **Default**
 
@@ -142,8 +142,8 @@ Learn Linux as you go:
 
 **Alternatives**
 
-- Nextcloud
-- Syncthing
+- [Nextcloud](http://nextcloud.com/)
+- [Syncthing](https://syncthing.net/) (backups/file syncing)
 
 ---
 
@@ -283,6 +283,7 @@ Learn Linux as you go:
 ### F-J
 
 ### K-O
+- [@KYC3](https://twitter.com/KYCfree)
 - [@MarketsBylili](https://twitter.com/Marketsbylili)
 - [@ODELL](https://twitter.com/ODELL) ([Matt Odell](https://mattodell.keybase.pub/))
 - [@openoms](https://twitter.com/openoms)
