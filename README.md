@@ -1,4 +1,4 @@
-# A Bitcoiners Toolkit
+# A Bitcoiner's Toolkit
 A curated list of software, services and guides essential for every bitcoiner.
 
 ## Contents
