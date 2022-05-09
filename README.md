@@ -77,7 +77,7 @@ Learn Linux as you go:
 
 ---
 
-## Email :letter:
+## Email
 ### Providers :envelope:
 
 **Default**
@@ -104,7 +104,9 @@ Learn Linux as you go:
 
 ---
 
-### Home Networking & Storage
+## Home Networking & Storage
+
+### Networking
 
 **Default**
 
@@ -114,7 +116,7 @@ Learn Linux as you go:
 
 - Enhance the privacy of ISP router by changing factory settings [1](https://www.cgparker.com/home-network-security-router-settings/)
 
-**Improved**
+**Alternatives**
 
 - [pfSense](https://www.pfsense.org/) router
 - [PiHole](https://pi-hole.net/)
@@ -123,6 +125,17 @@ Learn Linux as you go:
 
 - NetworkChuck's [video](https://youtu.be/lUzSsX4T4WQ) on setting up pfSense
 - Citadel Dispatch [CD.0.3.6 episode](https://citadeldispatch.com/cd36/) with @jamesob and @\_k3tan
+
+### Cloud & Storage
+
+**Default**
+
+- Google Cloud / iCloud
+
+**Alternatives**
+
+- Nextcloud
+- Syncthing
 
 ---
 
@@ -201,6 +214,25 @@ Learn Linux as you go:
 - AntennaPod
 - Fountani
 - Breez
+
+---
+
+## Maps & Navigation
+
+- Organic Maps
+
+---
+
+## Other Apps
+
+**App Stores**
+
+- F-Droid
+- Aurora
+
+**Tracking Prevention**
+
+- Exodus
 
 ---
 
