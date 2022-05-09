@@ -9,8 +9,16 @@ A curated list of software, services and guides essential for every bitcoiner.
 - [The Toolkit](#the-toolkit)
   - [Operating Systems](#operating-systems)
   - [Email](#email)
+  - [Home Networking & Storage](#home-networking-and-storage)
+  - [Hosted VPN Providers](#hosted-vpn-providers)
+  - [Password and 2FA](#password-and-2fa)
+  - [Messaging and Social](#messaging-and-social)
+  - [Podcast Apps](#podcast-apps)
+  - [Maps and Navigation](#maps-and-navigation)
+  - [Other Apps](#other-apps)
   - [Bitcoin Dashboards & Explorers](#bitcoin-dashboards-and-explorers)
   - [Other Privacy Lists](#other-curated-privacy-lists)
+  - [Privacy Focused Bitcoiners](#privacy-focused-bitcoiners)
 
 ## Introduction
 ### Why?
@@ -104,7 +112,7 @@ Learn Linux as you go:
 
 ---
 
-## Home Networking & Storage
+## Home Networking and Storage
 
 ### Networking
 
@@ -126,7 +134,7 @@ Learn Linux as you go:
 - NetworkChuck's [video](https://youtu.be/lUzSsX4T4WQ) on setting up pfSense
 - Citadel Dispatch [CD.0.3.6 episode](https://citadeldispatch.com/cd36/) with @jamesob and @\_k3tan
 
-### Cloud & Storage
+### Cloud and Storage
 
 **Default**
 
@@ -156,7 +164,7 @@ Learn Linux as you go:
 
 ---
 
-## Password & 2FA
+## Password and 2FA
 
 ### Password Managers
 
@@ -169,7 +177,7 @@ Learn Linux as you go:
 
 ---
 
-## Messaging & Social
+## Messaging and Social
 
 ### Social Media
 
@@ -193,7 +201,6 @@ Learn Linux as you go:
 **Guides**
 
 - Comparison between [WhatsApp, Telegram, Signal by Techlore](https://youtu.be/3Fvzjf2349c), and tips to get the [most out of Signal](https://duckduckgo.com/?q=techlore+signal&t=brave&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUSf56JdGrTI), also by Techlore.
-- 
 
 ### Calls & Conferencing
 
@@ -217,7 +224,7 @@ Learn Linux as you go:
 
 ---
 
-## Maps & Navigation
+## Maps and Navigation
 
 - Organic Maps
 
