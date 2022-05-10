@@ -6,7 +6,7 @@ A curated list of software, services and guides essential for every bitcoiner.
   - [Why?](#why)
   - [Who is this for?](#who-is-this-for)
   - [Disclaimer](#disclaimer)
-- [The Toolkit](#the-toolkit)
+- [The Non-Bitcoin Toolkit](#the-non-bitcoin-toolkit)
   - [Operating Systems](#operating-systems)
   - [Email](#email)
   - [Home Networking & Storage](#home-networking-and-storage)
@@ -16,9 +16,10 @@ A curated list of software, services and guides essential for every bitcoiner.
   - [Podcast Apps](#podcast-apps)
   - [Maps and Navigation](#maps-and-navigation)
   - [Other Apps](#other-apps)
+- [The Bitcoin Toolkit](#the-bitcoin-toolkit)
   - [Bitcoin Dashboards & Explorers](#bitcoin-dashboards-and-explorers)
-  - [Other Privacy Lists](#other-curated-privacy-lists)
   - [Privacy Focused Bitcoiners](#privacy-focused-bitcoiners)
+- [Other Privacy Lists](#other-curated-privacy-lists)
 
 ## Introduction
 ### Why?
@@ -36,79 +37,78 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 
 ---
 
-# The Toolkit
+# The Non-Bitcoin Toolkit
 
 ## Operating Systems
 
 ### PC :computer:
 
-**Default**
+  **Default**
 
-- Windows - Improved: [Win10 Ameliorated](https://ameliorated.info/), not verified so use with caution!
+  - Windows - Improved: [Win10 Ameliorated](https://ameliorated.info/), not verified so use with caution!
 
-**Alternatives**
+  **Alternatives**
 
-- [PopOS](https://pop.system76.com/) - Good daily driver, suitable for gaming, encrypts drives, familiar UI 
-- [Tails](https://tails.boum.org/) - Excellent privacy assurances, Tor by default, boot from USB (portable), runs on RAM.
-- [Qubes](https://www.qubes-os.org/intro/) - Security focus, compartmentalises your activity.
-- [Mint](https://linuxmint.com/) - Good daily driver, available in cut down [xcfe](1https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html) version (good for older devices).
-- [Ubuntu](https://ubuntu.com/) - Good daily driver, often people's first experience of Linux.
+  - [PopOS](https://pop.system76.com/) - Good daily driver, suitable for gaming, encrypts drives, familiar UI    - [Tails](https://tails.boum.org/) - Excellent privacy assurances, Tor by default, boot from USB (portable), runs on RAM.
+  - [Qubes](https://www.qubes-os.org/intro/) - Security focus, compartmentalises your activity.
+  - [Mint](https://linuxmint.com/) - Good daily driver, available in cut down [xcfe](1https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html) version (good for older devices).
+  - [Ubuntu](https://ubuntu.com/) - Good daily driver, often people's first experience of Linux.
 
-**Guides**
+  **Guides**
 
-Learn more about Linux:
-- [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm) guide, the basic of Linux and how it works.
+  Learn more about Linux:
+  - [FOSSLinux.com](https://www.fosslinux.com/42688/getting-started-with-linux-operating-system.htm) guide, the basic of Linux and how it works.
 
-Learn Linux as you go:
-- 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h) how to set up a full node using the Linux terminal from basics.
-- Ministry of Nodes [tutorials](https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c) setting up a full node and other software on Ubuntu.
-- Hackernoon [article](https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea) guide on setting up a node on Kubuntu from basics.
-- [RaspiBolt](https://raspibolt.org/), a guide to setting up a full core and lightning node.
+  Learn Linux as you go:
+  - 402 Payment Required [video series](https://youtube.com/playlist?list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h) how to set up a full node using the Linux terminal from basics.
+  - Ministry of Nodes [tutorials](https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c) setting up a full node and other software on Ubuntu.
+  - Hackernoon [article](https://hackernoon.com/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea) guide on setting up a node on Kubuntu from basics.
+  - [RaspiBolt](https://raspibolt.org/), a guide to setting up a full core and lightning node.
 
 ### Phone :iphone:
 
-**Default**
+  **Default**
 
-- Android - Improved: Techlore [Video](https://www.youtube.com/watch?v=dMWEym0KPcA)
-- iOS - Improved: Techlore [Video](https://www.youtube.com/watch?v=d2bJVKcIEg0)
+  - Android - Improved: Techlore [Video](https://www.youtube.com/watch?v=dMWEym0KPcA)
+  - iOS - Improved: Techlore [Video](https://www.youtube.com/watch?v=d2bJVKcIEg0)
 
-**Alternatives**
+  **Alternatives**
 
-- [CalyxOS](https://calyxos.org/) - de-googled android, good daily driver with good privacy trade off balance. 
-- [GrapheneOS](https://grapheneos.org/) - security focused phone OS, wider device compatibility than CalyxOS.
+  - [CalyxOS](https://calyxos.org/) - de-googled android, good daily driver with good privacy trade off balance. 
+  - [GrapheneOS](https://grapheneos.org/) - security focused phone OS, wider device compatibility than CalyxOS.
 
-**Guides**
-- Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/) to CalyxOS setup.
-- EconoAlchemist's [guide](https://bitcoinmagazine.com/guides/how-to-establish-mobile-bitcoin-privacy-with-a-pixel-4a-and-calyxos) to Calyx and whirlpooling.
-- Lopp's [Blog](https://blog.lopp.net/grapheneos-phone-privacy-protection/) post on GrapheneOS.
-- Citadel Dispatch [e.0.3.4](https://bitcointv.com/w/m2Jc9AtRyo2LUwE65bYdpr) with Sethforprivacy.
+  **Guides**
+  - Bitcoin Q&A's [guide](https://bitcoiner.guide/calyxos/) to CalyxOS setup.
+  - EconoAlchemist's [guide](https://bitcoinmagazine.com/guides/how-to-establish-mobile-bitcoin-privacy-with-a-pixel-4a-and-calyxos) to Calyx and whirlpooling.
+  - Lopp's [Blog](https://blog.lopp.net/grapheneos-phone-privacy-protection/) post on GrapheneOS.
+  - Citadel Dispatch [e.0.3.4](https://bitcointv.com/w/m2Jc9AtRyo2LUwE65bYdpr) with Sethforprivacy.
 
 ---
 
 ## Email
 ### Providers :envelope:
 
-**Default**
+  **Default**
 
-- Gmail
-- Outlook
+  - Gmail
+  - Outlook
 
-**Alternatives**
+  **Alternatives**
 
-- [Tutanota](https://mail.tutanota.com/)
-- [ProtonMail](https://protonmail.com/)
+  - [Tutanota](https://mail.tutanota.com/)
+  - [ProtonMail](https://protonmail.com/)
 
 ### Aliasing :bust_in_silhouette:
 
-- [SimpleLogin](https://simplelogin.io/)
+  - [SimpleLogin](https://simplelogin.io/)
 
 ---
 
 ## Phone Numbers
 
-- [Silent.link](https://silent.link/) (US only)
-- Buying PAYG sim cards
-- [Quackr](https://quackr.io/)
+  - [Silent.link](https://silent.link/) (US only)
+  - Buying PAYG sim cards
+  - [Quackr](https://quackr.io/)
 
 ---
 
@@ -116,51 +116,51 @@ Learn Linux as you go:
 
 ### Networking
 
-**Default**
+  **Default**
 
-- ISP provided router w/ stock settings
+  - ISP provided router w/ stock settings
 
-**First Steps**
+  **First Steps**
 
-- Enhance the privacy of ISP router by changing factory settings [1](https://www.cgparker.com/home-network-security-router-settings/)
+  - Enhance the privacy of ISP router by changing factory settings [1](https://www.cgparker.com/home-network-security-router-settings/)
 
-**Alternatives**
+  **Alternatives**
 
-- [pfSense](https://www.pfsense.org/) router
-- [PiHole](https://pi-hole.net/)
+  - [pfSense](https://www.pfsense.org/) router
+  - [PiHole](https://pi-hole.net/)
 
-**Guides**
+  **Guides**
 
-- NetworkChuck's [video](https://youtu.be/lUzSsX4T4WQ) on setting up pfSense
-- Citadel Dispatch [CD.0.3.6 episode](https://citadeldispatch.com/cd36/) with @jamesob and @\_k3tan
+  - NetworkChuck's [video](https://youtu.be/lUzSsX4T4WQ) on setting up pfSense
+  - Citadel Dispatch [CD.0.3.6 episode](https://citadeldispatch.com/cd36/) with @jamesob and @\_k3tan
 
 ### Cloud and storage
 
-**Default**
+  **Default**
 
-- Google Cloud / iCloud
+  - Google Cloud / iCloud
 
-**Alternatives**
+  **Alternatives**
 
-- [Nextcloud](http://nextcloud.com/)
-- [Syncthing](https://syncthing.net/) (backups/file syncing)
+  - [Nextcloud](http://nextcloud.com/)
+  - [Syncthing](https://syncthing.net/) (backups/file syncing)
 
 ---
 
 ## Hosted VPN Providers
 
-**Hosted VPN**
+  **Hosted VPN**
 
-- [Mullvad](https://mullvad.net/en/)
-- [IVPN](https://www.ivpn.net/)
+  - [Mullvad](https://mullvad.net/en/)
+  - [IVPN](https://www.ivpn.net/)
 
-**Sorta VPN**
+  **Sorta VPN**
 
-- [ZeroTier](https://www.zerotier.com/)
+  - [ZeroTier](https://www.zerotier.com/)
 
-**Guides**
+  **Guides**
 
-- [ZeroTier for your node](https://www.youtube.com/watch?v=oM0HvY_x_Hc&list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c&index=12) by @\_k3tan
+  - [ZeroTier for your node](https://www.youtube.com/watch?v=oM0HvY_x_Hc&list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c&index=12) by @\_k3tan
 
 ---
 
@@ -168,12 +168,12 @@ Learn Linux as you go:
 
 ### Password Managers
 
-- KeePass ([Windows](https://keepass.info/)); KeePassDX ([Android](https://www.keepassdx.com/))
-- [Bitwarden](https://www.keepassdx.com/)
+  - KeePass ([Windows](https://keepass.info/)); KeePassDX ([Android](https://www.keepassdx.com/))
+  - [Bitwarden](https://www.keepassdx.com/)
 
 ### 2FA
 
-- [Aegis](https://getaegis.app/)
+  - [Aegis](https://getaegis.app/)
 
 ---
 
@@ -181,94 +181,90 @@ Learn Linux as you go:
 
 ### Social Media
 
-- [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) (Reddit)
-- [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter) (Twitter)
-- [Nextpipe](https://newpipe.net/) (YouTube)
+  - [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) (Reddit)
+  - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter) (Twitter)
+  - [Nextpipe](https://newpipe.net/) (YouTube)
 
 ### Messaging
 
-**Default**
+  **Default**
 
-- SMS
-- WhatsApp
+  - SMS
+  - WhatsApp
 
-**Alternatives**
+  **Alternatives**
 
-- [Signal](https://www.signal.org/)
-- [Matrix](https://matrix.org/) ([Element](https://matrix.org/docs/projects/client/element) is a good client)
-- [Briar](https://briarproject.org/)
+  - [Signal](https://www.signal.org/)
+  - [Matrix](https://matrix.org/) ([Element](https://matrix.org/docs/projects/client/element) is a good client)
+  - [Briar](https://briarproject.org/)
 
-**Guides**
+  **Guides**
 
-- Comparison between [WhatsApp, Telegram, Signal by Techlore](https://youtu.be/3Fvzjf2349c), and tips to get the [most out of Signal](https://duckduckgo.com/?q=techlore+signal&t=brave&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUSf56JdGrTI), also by Techlore.
+  - Comparison between [WhatsApp, Telegram, Signal by Techlore](https://youtu.be/3Fvzjf2349c), and tips to get the [most out of Signal](https://duckduckgo.com/?q=techlore+signal&t=brave&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUSf56JdGrTI), also by Techlore.
 
 ### Calls & Conferencing
 
-**Default**
+  **Default**
 
-- Cellular calls
-- Google Meet / MS Teams / Skype
+  - Cellular calls
+  - Google Meet / MS Teams / Skype
 
-**Alternatives**
+  **Alternatives**
 
-- [Jitsi](https://jitsi.org/), and go to [meet.jit.si](https://meet.jit.si/) to set a call up
-- Signal voice/video call
+  - [Jitsi](https://jitsi.org/), and go to [meet.jit.si](https://meet.jit.si/) to set a call up
+  - Signal voice/video call
 
 ---
 
 ## Podcast Apps
 
-- AntennaPod
-- Fountani
-- Breez
+  - AntennaPod
+  - Fountani
+  - Breez
 
 ---
 
 ## Maps and Navigation
 
-- Organic Maps
+  - Organic Maps
 
 ---
 
 ## Other Apps
 
-**App Stores**
+  **App Stores**
 
-- F-Droid
-- Aurora
+  - F-Droid
+  - Aurora
 
-**Tracking Prevention**
+  **Tracking Prevention**
 
-- Exodus
+  - Exodus
 
 ---
+
+# The Bitcoin Toolkit
 
 ## Bitcoin Dashboards and Explorers
 ### Dashboard
 
-- [Clark Moody's Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
-- [Bitbo.io](https://bitbo.io)
+  - [Clark Moody's Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+  - [Bitbo.io](https://bitbo.io)
 
 ### Block Explorer
 
-**Default**
+  **Default**
 
-- Blockchain.com
+  - Blockchain.com
 
-**Alternatives**
+  **Alternatives**
 
-- [OXT.me](https://oxt.me)
-- [Mempool.space](https://mempool.space)
+  - [OXT.me](https://oxt.me)
+  - [Mempool.space](https://mempool.space)
 
-**Self-Host**
+  **Self-Host**
 
-- [RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
-
----
-
-## Other Curated Privacy Lists
-
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+  - [RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
 
 ---
 
@@ -277,7 +273,7 @@ Learn Linux as you go:
 ### A-E
 - [@BitcoinQ_A](https://twitter.com/bitcoinq_a) ([bitcoiner.guide](https://bitcoiner.guide/))
 - [@BTCGandalf](https://twitter.com/BTCGandalf) ([This Is Bitcoin](https://www.youtube.com/thisisbitcoinyt))
-- [@Diverter_NoKYC](https://twitter.com/diverter_nokyc) ([diverter.hostyourown.tools])(https://diverter.hostyourown.tools/)
+- [@Diverter_NoKYC](https://twitter.com/diverter_nokyc) ([diverter.hostyourown.tools](https://diverter.hostyourown.tools/))
 - [@EconoAlchemist](https://twitter.com/econoalchemist) ([burn the bridge](https://www.econoalchemist.com/))
 
 ### F-J
@@ -294,4 +290,11 @@ Learn Linux as you go:
 
 ### U-Z
 
+---
+
+# Other Curated Privacy Lists
+
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+
+---
 
