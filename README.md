@@ -95,12 +95,12 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 
   **Alternatives**
 
-  - [Tutanota](https://mail.tutanota.com/)
-  - [ProtonMail](https://protonmail.com/)
+  - [Tutanota](https://mail.tutanota.com/) - open source e2ee email provider
+  - [ProtonMail](https://protonmail.com/) - open source e2ee email provider
 
 ### Aliasing :bust_in_silhouette:
 
-  - [SimpleLogin](https://simplelogin.io/)
+  - [SimpleLogin](https://simplelogin.io/) - Create up unlimited aliases (paid version only, 15 aliases for free)for your base email, to never reuse and email again.
 
 ---
 
@@ -295,6 +295,7 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 # Other Curated Privacy Lists
 
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+- [PrivacyTools.io](https://www.privacytools.io/)
 
 ---
 
