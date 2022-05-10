@@ -12,6 +12,7 @@ A curated list of software, services and guides essential for every bitcoiner.
   - [Home Networking & Storage](#home-networking-and-storage)
   - [Hosted VPN Providers](#hosted-vpn-providers)
   - [Password and 2FA](#password-and-2fa)
+  - [PGP](#pgp)
   - [Messaging and Social](#messaging-and-social)
   - [Podcast Apps](#podcast-apps)
   - [Maps and Navigation](#maps-and-navigation)
@@ -90,17 +91,20 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 
   **Default**
 
-  - Gmail
-  - Outlook
+  - [Gmail](https://protonmail.com/blog/google-privacy-problem/) - Improved: Stop other apps from reading your emails ([1](https://www.trustedreviews.com/news/how-to-stop-people-reading-your-gmail-3500379)). 
 
   **Alternatives**
 
   - [Tutanota](https://mail.tutanota.com/) - open source e2ee email provider
   - [ProtonMail](https://protonmail.com/) - open source e2ee email provider
 
+  **Learn**
+
+  - [PGP encrypt](https://www.inverse.com/article/27013-how-to-encrypt-email-pgp-key) your emails. Good foressaginf actual people.
+
 ### Aliasing :bust_in_silhouette:
 
-  - [SimpleLogin](https://simplelogin.io/) - Create up unlimited aliases (paid version only, 15 aliases for free)for your base email, to never reuse and email again.
+  - [SimpleLogin](https://simplelogin.io/) - Create unlimited aliases (paid version only, 15 aliases for free) for your base email, to never reuse an email again.
 
 ---
 
@@ -174,6 +178,12 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 ### 2FA
 
   - [Aegis](https://getaegis.app/)
+
+---
+
+## PGP
+
+  - [OpenKeychain](https://www.openkeychain.org/)
 
 ---
 
