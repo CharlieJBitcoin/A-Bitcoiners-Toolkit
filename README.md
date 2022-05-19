@@ -291,6 +291,7 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 - [@ErgoBTC](https://mobile.twitter.com/ErgoBTC)
 
 ### F-J
+- [@giacomozucco](https://mobile.twitter.com/giacomozucco)
 - [@heady_wook](https://mobile.twitter.com/heady_wook)
 
 ### K-O
