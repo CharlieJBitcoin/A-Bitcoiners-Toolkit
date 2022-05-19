@@ -282,23 +282,36 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 
 ### A-E
 - [@BitcoinQ_A](https://twitter.com/bitcoinq_a) ([bitcoiner.guide](https://bitcoiner.guide/))
+- [@BrotherRabbit_](https://twitter.com/brotherrabbit_)
 - [@BTCGandalf](https://twitter.com/BTCGandalf) ([This Is Bitcoin](https://www.youtube.com/thisisbitcoinyt))
+- [@dammkewl](https://mobile.twitter.com/dammkewl)
 - [@Diverter_NoKYC](https://twitter.com/diverter_nokyc) ([diverter.hostyourown.tools](https://diverter.hostyourown.tools/))
+- [@Din_J7]<https://twitter.com/din_j7)
 - [@EconoAlchemist](https://twitter.com/econoalchemist) ([burn the bridge](https://www.econoalchemist.com/))
+- [@ErgoBTC](https://mobile.twitter.com/ErgoBTC)
 
 ### F-J
+- [@heady_wook](https://mobile.twitter.com/heady_wook)
 
 ### K-O
+- [@_k3tan](https://mobile.twitter.com/_k3tan)
 - [@KYC3](https://twitter.com/KYCfree)
+- [@LaurentMT](https://mobile.twitter.com/LaurentMT)
 - [@MarketsBylili](https://twitter.com/Marketsbylili)
+- [@noisymouse27f](https://mobile.twitter.com/noisymouse27f)
 - [@ODELL](https://twitter.com/ODELL) ([Matt Odell](https://mattodell.keybase.pub/))
 - [@openoms](https://twitter.com/openoms)
+- [@orangedmike](https://twitter.com/orangedmike)
+- [@OxoUtx](https://mobile.twitter.com/OxoUtx)
 
 ### P-T
+- [@RoninDojoNode](https://mobile.twitter.com/RoninDojoNode)
 - [@Satrinity](https://twitter.com/satrinity402)
+- [@SovrnBitcoiner](https://twitter.com/sovrnbitcoiner)
 - [@TDevD](https://twitter.com/SamouraiDev)
 
 ### U-Z
+- [@wanderinKing072](https://mobile.twitter.com/wanderinKing072)
 
 ---
 
