@@ -284,6 +284,7 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 - [@BitcoinQ_A](https://twitter.com/bitcoinq_a) ([bitcoiner.guide](https://bitcoiner.guide/))
 - [@BrotherRabbit_](https://twitter.com/brotherrabbit_)
 - [@BTCGandalf](https://twitter.com/BTCGandalf) ([This Is Bitcoin](https://www.youtube.com/thisisbitcoinyt))
+- [@BTCxZelko](https://twitter.com/BTCxZelko)
 - [@dammkewl](https://mobile.twitter.com/dammkewl)
 - [@Diverter_NoKYC](https://twitter.com/diverter_nokyc) ([diverter.hostyourown.tools](https://diverter.hostyourown.tools/))
 - [@Din_J7](https://twitter.com/Din_J7)
