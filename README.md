@@ -298,6 +298,7 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 - [@KYC3](https://twitter.com/KYCfree)
 - [@LaurentMT](https://mobile.twitter.com/LaurentMT)
 - [@MarketsBylili](https://twitter.com/Marketsbylili)
+- [@maxtannahill](https://mobile.twitter.com/maxtannahill)
 - [@noisymouse27f](https://mobile.twitter.com/noisymouse27f)
 - [@ODELL](https://twitter.com/ODELL) ([Matt Odell](https://mattodell.keybase.pub/))
 - [@openoms](https://twitter.com/openoms)
