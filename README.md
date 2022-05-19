@@ -286,7 +286,7 @@ This is by no means comprehensive! V1 of this list is simply [myself](https://tw
 - [@BTCGandalf](https://twitter.com/BTCGandalf) ([This Is Bitcoin](https://www.youtube.com/thisisbitcoinyt))
 - [@dammkewl](https://mobile.twitter.com/dammkewl)
 - [@Diverter_NoKYC](https://twitter.com/diverter_nokyc) ([diverter.hostyourown.tools](https://diverter.hostyourown.tools/))
-- [@Din_J7]<https://twitter.com/din_j7)
+- [@Din_J7](https://twitter.com/Din_J7)
 - [@EconoAlchemist](https://twitter.com/econoalchemist) ([burn the bridge](https://www.econoalchemist.com/))
 - [@ErgoBTC](https://mobile.twitter.com/ErgoBTC)
 
